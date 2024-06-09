@@ -6,3 +6,6 @@ Contains code for database connection, data cleaning, code for distribution of p
 
 prediction_app.py:
 Contains code for the heart disease prediction web application.
+
+link to prediction system:
+http://localhost:8501/
