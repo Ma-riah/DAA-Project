@@ -8,4 +8,4 @@ prediction_app.py:
 Contains code for the heart disease prediction web application.
 
 link to prediction system:
-http://localhost:8501/
+http://localhost:8513/
